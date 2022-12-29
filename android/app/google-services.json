@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82706160667",
+    "project_id": "plantapp-userauth",
+    "storage_bucket": "plantapp-userauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82706160667:android:78958d216db1dce88d2cbe",
+        "android_client_info": {
+          "package_name": "com.example.plant_dictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82706160667-h9n8f6cbfe6imi9mlruprcbb5s9s0m6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQr14z2Px8DUnmerEyERUkK3I03rBgPBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82706160667-h9n8f6cbfe6imi9mlruprcbb5s9s0m6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
